@@ -114,17 +114,19 @@ Also, Tier 3 cities outperforming Tier 1 cities was a fascinating twist in the d
 
 ## 🙏 Acknowledgment
 
-A huge thank you to **Swanjewet Sir** for his mentorship and guidance throughout this project.  
-His insights helped me see beyond numbers — into business impact.
+A huge thank you to **Swanjewet Sir** for his mentorship and guidance throughout this project. 
 
 ---
 
-## 🚀 Let's Connect!
+## 🔗 Let's Connect!
 
-If you're passionate about **data analytics**, **quick-commerce**, or just love uncovering stories hidden in numbers —  
+If you're passionate about **Data Analytics**, **quick-commerce**, or just love uncovering stories hidden in numbers —  
 let's connect and chat! 📈💬
+- **Portfolio**: [DataSciencePortfol.io](https://www.datascienceportfol.io/nikhilroy744)  
+- **LinkedIn**: [Nikhil Kumar Roy](https://www.linkedin.com/in/nikhil-kumar-roy/)    
 
 ---
-#DataAnalytics #Python #Pandas #Seaborn #QuickCommerce #GroceryDelivery #BusinessInsights #StorytellingWithData
+#DataAnalytics #Python #Pandas #Seaborn #QuickCommerce #GroceryDelivery #BusinessInsights #StorytellingWithData #DataAnalysis
+### 🌟 If you find this project interesting, give it a ⭐ and let me know your thoughts!  
 
 
